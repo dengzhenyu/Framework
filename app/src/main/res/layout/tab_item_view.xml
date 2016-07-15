@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:text=""
         android:textSize="10sp"
-        android:textColor="#ffffff">
+        android:textColor="@color/primarybar_txt">
     </TextView>
 
 </LinearLayout>
